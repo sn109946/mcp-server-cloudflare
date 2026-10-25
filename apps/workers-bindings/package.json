@@ -21,7 +21,7 @@
 		"@types/node": "22.15.17",
 		"marked": "15.0.7",
 		"typescript": "5.5.4",
-		"vitest": "4.1.8",
+		"vitest": "5.0.5",
 		"wrangler": "4.96.0"
 	},
 	"dependencies": {
@@ -34,7 +34,7 @@
 		"concurrently": "9.1.2",
 		"start-server-and-test": "2.0.11",
 		"vitest-evals": "0.1.4",
-		"zod": "4.4.3"
+		"zod": "4.6.6"
 	},
 	"type": "module"
 }

@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"@repo/mcp-common": "workspace:*",
-		"zod": "4.4.3"
+		"zod": "4.6.6"
 	},
 	"devDependencies": {
 		"@cloudflare/vite-plugin": "1.1.0",
@@ -21,8 +21,8 @@
 		"@types/node": "22.15.17",
 		"prettier": "3.5.3",
 		"typescript": "5.5.4",
-		"vite": "6.3.4",
-		"vitest": "4.1.8",
+		"vite": "6.4.4",
+		"vitest": "5.0.5",
 		"wrangler": "4.96.0"
 	},
 	"type": "module"
