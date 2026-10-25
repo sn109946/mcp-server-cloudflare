@@ -19,7 +19,7 @@
 		"eval:ci": "start-server-and-test --expect 404 eval:server http://localhost:8976 'vitest run --testTimeout=60000 --config vitest.config.evals.ts'"
 	},
 	"dependencies": {
-		"@hono/node-server": "1.13.8",
+		"@hono/node-server": "2.1.5",
 		"@hono/zod-validator": "0.4.3",
 		"@n8n/json-schema-to-zod": "1.1.0",
 		"@repo/eval-tools": "workspace:*",
@@ -28,12 +28,12 @@
 		"agents": "catalog:",
 		"cron-schedule": "5.0.4",
 		"esbuild": "0.27.3",
-		"hono": "4.7.6",
+		"hono": "4.13.11",
 		"mime": "4.0.6",
 		"simple-git-hooks": "2.12.1",
 		"tsx": "4.19.3",
 		"vitest-evals": "0.1.4",
-		"zod": "4.4.3"
+		"zod": "4.6.6"
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-pool-workers": "0.16.11",
